@@ -10,7 +10,7 @@ body {
 head {
     color: darkslateblue;
     display: flex;
-    justify-content: left;
+    justify-items: left;
 }
 
 nav a {

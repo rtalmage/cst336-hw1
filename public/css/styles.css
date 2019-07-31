@@ -7,6 +7,7 @@ body {
     font-size: 1.2em;
     justify-content: center;
     justify-items: left;
+    display: inline-flex;
 }
 
 head {
@@ -19,6 +20,7 @@ h1 {
 }
 
 nav a {
+    display: flex;
     padding: 15px;
     padding-bottom: 5px;
     text-align: center;

@@ -5,7 +5,8 @@ main {
     text-align: center;
     border-bottom: blueviolet;
     font-size: 1.2em;
-    display: flex;
+    display: block;
+    justify-content: center;
 }
 
 head {

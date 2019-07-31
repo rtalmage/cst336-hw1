@@ -9,7 +9,7 @@ body {
 
 head {
     color: darkslateblue;
-    display: table-row;
+    display: inline;
 }
 
 nav a {

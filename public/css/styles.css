@@ -12,7 +12,7 @@ head {
 }
 
 h1 {
-    display: inline;
+    display: flex;
     justify-content: left;
 }
 

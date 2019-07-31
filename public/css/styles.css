@@ -6,7 +6,7 @@ main {
     border-bottom: blueviolet;
     font-size: 1.2em;
     display: block;
-    justify-content: center;
+    justify-content: left;
 }
 
 head {
@@ -15,7 +15,7 @@ head {
 
 body {
     color: darkslateblue;
-    display: flex;
+    display: block;
     justify-content: left;
 }
 

@@ -1,0 +1,27 @@
+body {
+    margin: 25px;
+    background-color: #CBE2F6;
+    color: midnightblue;
+    text-align: center;
+    border-bottom: blueviolet;
+    font-size: 1.2em;
+}
+
+header {
+    color: darkslateblue;
+}
+
+nav a {
+    padding: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.75em;
+    color: steelblue;
+}
+
+nav a:hover { /* psuedo class */
+    color: darkslateblue;
+    font-size: 2em;
+    transition: .75s; /*transition effect*/
+}

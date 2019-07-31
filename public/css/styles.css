@@ -1,7 +1,7 @@
 main {
     margin: 25px;
-    background-color: #CBE2F6;
-    color: midnightblue;
+    background-color: midnightblue;
+    color: aliceblue;
     text-align: center;
     border-bottom: blueviolet;
     font-size: 1.2em;
@@ -14,6 +14,7 @@ head {
 }
 
 body {
+    background-color: dimgrey;
     color: darkslateblue;
     display: flow;
     justify-content: left;
@@ -29,8 +30,9 @@ nav a {
     color: steelblue;
 }
 
-nav a:hover { /* psuedo class */
+nav a:hover {
     color: darkslateblue;
     font-size: 2em;
-    transition: .75s; /*transition effect*/
+    transition: .75s;
+    font-stretch: expanded;
 }

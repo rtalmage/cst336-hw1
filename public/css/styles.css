@@ -15,12 +15,12 @@ head {
 
 body {
     color: darkslateblue;
-    display: inline-flex;
+    display: flow;
     justify-content: left;
 }
 
 nav a {
-    display: inline-flex;
+    display: flow;
     padding: 15px;
     padding-bottom: 5px;
     text-align: center;

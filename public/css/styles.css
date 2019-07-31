@@ -13,7 +13,7 @@ head {
 
 h1 {
     display: inline;
-    justify-content: center;
+    justify-content: left;
 }
 
 nav a {

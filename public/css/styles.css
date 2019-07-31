@@ -6,8 +6,7 @@ p {
     border-bottom: blueviolet;
     font-size: 1.2em;
     justify-content: center;
-    justify-items: left;
-    display: grid;
+    display: flex;
 }
 
 head {

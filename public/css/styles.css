@@ -15,7 +15,7 @@ head {
 
 body {
     color: darkslateblue;
-    display: block;
+    display: inline-flex;
     justify-content: left;
 }
 

@@ -9,6 +9,8 @@ body {
 
 header {
     color: darkslateblue;
+    display: flex;
+    justify-content: left;
 }
 
 nav a {

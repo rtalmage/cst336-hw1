@@ -34,5 +34,5 @@ nav a:hover {
     color: darkslateblue;
     font-size: 2em;
     transition: .75s;
-    font-stretch: expanded;
+    text-decoration: blueviolet;
 }

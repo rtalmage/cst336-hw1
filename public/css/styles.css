@@ -9,8 +9,7 @@ body {
 
 head {
     color: darkslateblue;
-    display: flow;
-    justify-items: left;
+    display: table-row;
 }
 
 nav a {

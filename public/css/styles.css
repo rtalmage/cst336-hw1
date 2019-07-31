@@ -19,7 +19,6 @@ body {
 }
 
 nav a {
-    display: flex;
     padding: 15px;
     padding-bottom: 5px;
     text-align: center;
